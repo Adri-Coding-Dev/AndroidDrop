@@ -8,18 +8,18 @@
 
 ## Indice
 
-1. [Resumen Ejecutivo](SDD-01-Resumen-Ejecutivo.md)
-2. [Principios de Diseno](SDD-02-Principios.md)
-3. [Arquitectura General](SDD-03-Arquitectura.md)
-4. [Estructura de Modulos](SDD-04-Modulos.md)
-5. [Decisiones Tecnicas](SDD-05-Decisiones-Tecnicas.md)
-6. [Flujo de Datos y Protocolo](SDD-06-Flujo-Datos.md)
-7. [Sistema de Diseno](SDD-07-Sistema-Diseno.md)
-8. [Motor de Animaciones](SDD-08-Motor-Animation.md)
-9. [Seguridad](SDD-09-Seguridad.md)
-10. [Rendimiento y Accesibilidad](SDD-10-Rendimiento.md)
-11. [Diagramas](SDD-11-Diagramas.md)
-12. [Escalabilidad Futura](SDD-12-Escalabilidad.md)
+1. [Resumen Ejecutivo](README.md)
+2. [Principios de Diseno](docs/SDD-02-Principios.md)
+3. [Arquitectura General](docs/SDD-03-Arquitectura.md)
+4. [Estructura de Modulos](docs/SDD-04-Modulos.md)
+5. [Decisiones Tecnicas](docs/SDD-05-Decisiones-Tecnicas.md)
+6. [Flujo de Datos y Protocolo](docs/SDD-06-Flujo-Datos.md)
+7. [Sistema de Diseno](docs/SDD-07-Sistema-Diseno.md)
+8. [Motor de Animaciones](docs/SDD-08-Motor-Animation.md)
+9. [Seguridad](docs/SDD-09-Seguridad.md)
+10. [Rendimiento y Accesibilidad](docs/SDD-10-Rendimiento.md)
+11. [Diagramas](docs/SDD-11-Diagramas.md)
+12. [Escalabilidad Futura](docs/SDD-12-Escalabilidad.md)
 
 ---
 

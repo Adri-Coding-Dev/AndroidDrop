@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <compositeConfiguration>
+          <compositeBuild compositeDefinitionSource="SCRIPT">
+            <builds>
+              <build path="$PROJECT_DIR$/build-logic" name="build-logic">
+                <projects>
+                  <project path="$PROJECT_DIR$/build-logic" />
+                </projects>
+              </build>
+            </builds>
+          </compositeBuild>
+        </compositeConfiguration>
+        <option name="testRunner" value="CHOOSE_PER_TEST" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleJvm" value="#GRADLE_LOCAL_JAVA_HOME" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/animation" />
+            <option value="$PROJECT_DIR$/animation/animation-engine" />
+            <option value="$PROJECT_DIR$/animation/animation-gesture" />
+            <option value="$PROJECT_DIR$/animation/animation-particles" />
+            <option value="$PROJECT_DIR$/animation/animation-portal" />
+            <option value="$PROJECT_DIR$/animation/animation-sphere" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/build-logic" />
+            <option value="$PROJECT_DIR$/core" />
+            <option value="$PROJECT_DIR$/core/core-common" />
+            <option value="$PROJECT_DIR$/core/core-crypto" />
+            <option value="$PROJECT_DIR$/core/core-network" />
+            <option value="$PROJECT_DIR$/core/core-testing" />
+            <option value="$PROJECT_DIR$/core/core-ui" />
+            <option value="$PROJECT_DIR$/data" />
+            <option value="$PROJECT_DIR$/data/data-ble" />
+            <option value="$PROJECT_DIR$/data/data-file-system" />
+            <option value="$PROJECT_DIR$/data/data-nearby" />
+            <option value="$PROJECT_DIR$/data/data-transfer" />
+            <option value="$PROJECT_DIR$/data/data-wifi-direct" />
+            <option value="$PROJECT_DIR$/domain" />
+            <option value="$PROJECT_DIR$/domain/domain-model" />
+            <option value="$PROJECT_DIR$/domain/domain-repository" />
+            <option value="$PROJECT_DIR$/domain/domain-usecase" />
+            <option value="$PROJECT_DIR$/feature" />
+            <option value="$PROJECT_DIR$/feature/feature-diagnostics" />
+            <option value="$PROJECT_DIR$/feature/feature-discovery" />
+            <option value="$PROJECT_DIR$/feature/feature-file-explorer" />
+            <option value="$PROJECT_DIR$/feature/feature-settings" />
+            <option value="$PROJECT_DIR$/feature/feature-transfer" />
+            <option value="$PROJECT_DIR$/security" />
+            <option value="$PROJECT_DIR$/security/security-crypto" />
+            <option value="$PROJECT_DIR$/security/security-key-exchange" />
+            <option value="$PROJECT_DIR$/service" />
+            <option value="$PROJECT_DIR$/service/service-discovery" />
+            <option value="$PROJECT_DIR$/service/service-transfer" />
+            <option value="$PROJECT_DIR$/sync" />
+            <option value="$PROJECT_DIR$/sync/sync-protocol" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

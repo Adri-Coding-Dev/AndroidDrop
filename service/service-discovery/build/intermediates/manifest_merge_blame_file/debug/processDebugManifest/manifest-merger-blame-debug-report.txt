@@ -1,0 +1,19 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.androiddrop.service.discovery" >
+4
+5    <uses-sdk android:minSdkVersion="29" />
+6
+7    <application>
+7-->/run/media/shadowos/DATOS/Programacion/Android/AndroidDrop/service/service-discovery/src/main/AndroidManifest.xml:4:5-9:19
+8        <service
+8-->/run/media/shadowos/DATOS/Programacion/Android/AndroidDrop/service/service-discovery/src/main/AndroidManifest.xml:5:9-8:40
+9            android:name="com.androiddrop.service.discovery.DiscoveryService"
+9-->/run/media/shadowos/DATOS/Programacion/Android/AndroidDrop/service/service-discovery/src/main/AndroidManifest.xml:6:13-45
+10            android:exported="false"
+10-->/run/media/shadowos/DATOS/Programacion/Android/AndroidDrop/service/service-discovery/src/main/AndroidManifest.xml:8:13-37
+11            android:foregroundServiceType="connectedDevice" />
+11-->/run/media/shadowos/DATOS/Programacion/Android/AndroidDrop/service/service-discovery/src/main/AndroidManifest.xml:7:13-60
+12    </application>
+13
+14</manifest>

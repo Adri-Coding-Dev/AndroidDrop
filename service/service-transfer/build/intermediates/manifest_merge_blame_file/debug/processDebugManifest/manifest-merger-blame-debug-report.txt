@@ -1,0 +1,26 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.androiddrop.service.transfer" >
+4
+5    <uses-sdk android:minSdkVersion="29" />
+6
+7    <application>
+7-->/run/media/shadowos/DATOS/Programacion/Android/AndroidDrop/service/service-transfer/src/main/AndroidManifest.xml:4:5-12:19
+8        <service
+8-->/run/media/shadowos/DATOS/Programacion/Android/AndroidDrop/service/service-transfer/src/main/AndroidManifest.xml:5:9-8:40
+9            android:name="com.androiddrop.service.transfer.TransferService"
+9-->/run/media/shadowos/DATOS/Programacion/Android/AndroidDrop/service/service-transfer/src/main/AndroidManifest.xml:6:13-44
+10            android:exported="false"
+10-->/run/media/shadowos/DATOS/Programacion/Android/AndroidDrop/service/service-transfer/src/main/AndroidManifest.xml:8:13-37
+11            android:foregroundServiceType="dataSync" />
+11-->/run/media/shadowos/DATOS/Programacion/Android/AndroidDrop/service/service-transfer/src/main/AndroidManifest.xml:7:13-53
+12
+13        <receiver
+13-->/run/media/shadowos/DATOS/Programacion/Android/AndroidDrop/service/service-transfer/src/main/AndroidManifest.xml:9:9-11:40
+14            android:name="com.androiddrop.service.transfer.TransferBroadcastReceiver"
+14-->/run/media/shadowos/DATOS/Programacion/Android/AndroidDrop/service/service-transfer/src/main/AndroidManifest.xml:10:13-54
+15            android:exported="false" />
+15-->/run/media/shadowos/DATOS/Programacion/Android/AndroidDrop/service/service-transfer/src/main/AndroidManifest.xml:11:13-37
+16    </application>
+17
+18</manifest>

@@ -1,0 +1,32 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /run/media/shadowos/DATOS/Programacion/Android/AndroidDrop/service/service-transfer/src/main/AndroidManifest.xml:2:1-14:12
+INJECTED from /run/media/shadowos/DATOS/Programacion/Android/AndroidDrop/service/service-transfer/src/main/AndroidManifest.xml:2:1-14:12
+	package
+		INJECTED from /run/media/shadowos/DATOS/Programacion/Android/AndroidDrop/service/service-transfer/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /run/media/shadowos/DATOS/Programacion/Android/AndroidDrop/service/service-transfer/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /run/media/shadowos/DATOS/Programacion/Android/AndroidDrop/service/service-transfer/src/main/AndroidManifest.xml:4:5-12:19
+service#com.androiddrop.service.transfer.TransferService
+ADDED from /run/media/shadowos/DATOS/Programacion/Android/AndroidDrop/service/service-transfer/src/main/AndroidManifest.xml:5:9-8:40
+	android:exported
+		ADDED from /run/media/shadowos/DATOS/Programacion/Android/AndroidDrop/service/service-transfer/src/main/AndroidManifest.xml:8:13-37
+	android:foregroundServiceType
+		ADDED from /run/media/shadowos/DATOS/Programacion/Android/AndroidDrop/service/service-transfer/src/main/AndroidManifest.xml:7:13-53
+	android:name
+		ADDED from /run/media/shadowos/DATOS/Programacion/Android/AndroidDrop/service/service-transfer/src/main/AndroidManifest.xml:6:13-44
+receiver#com.androiddrop.service.transfer.TransferBroadcastReceiver
+ADDED from /run/media/shadowos/DATOS/Programacion/Android/AndroidDrop/service/service-transfer/src/main/AndroidManifest.xml:9:9-11:40
+	android:exported
+		ADDED from /run/media/shadowos/DATOS/Programacion/Android/AndroidDrop/service/service-transfer/src/main/AndroidManifest.xml:11:13-37
+	android:name
+		ADDED from /run/media/shadowos/DATOS/Programacion/Android/AndroidDrop/service/service-transfer/src/main/AndroidManifest.xml:10:13-54
+uses-sdk
+INJECTED from /run/media/shadowos/DATOS/Programacion/Android/AndroidDrop/service/service-transfer/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /run/media/shadowos/DATOS/Programacion/Android/AndroidDrop/service/service-transfer/src/main/AndroidManifest.xml
+INJECTED from /run/media/shadowos/DATOS/Programacion/Android/AndroidDrop/service/service-transfer/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /run/media/shadowos/DATOS/Programacion/Android/AndroidDrop/service/service-transfer/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /run/media/shadowos/DATOS/Programacion/Android/AndroidDrop/service/service-transfer/src/main/AndroidManifest.xml

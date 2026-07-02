@@ -1,0 +1,16 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /run/media/shadowos/DATOS/Programacion/Android/AndroidDrop/feature/feature-diagnostics/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest12166414047713336876.xml:2:13-83
+INJECTED from /run/media/shadowos/DATOS/Programacion/Android/AndroidDrop/feature/feature-diagnostics/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest12166414047713336876.xml:2:13-83
+	package
+		INJECTED from /run/media/shadowos/DATOS/Programacion/Android/AndroidDrop/feature/feature-diagnostics/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest12166414047713336876.xml
+	xmlns:android
+		ADDED from /run/media/shadowos/DATOS/Programacion/Android/AndroidDrop/feature/feature-diagnostics/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest12166414047713336876.xml:2:23-81
+uses-sdk
+INJECTED from /run/media/shadowos/DATOS/Programacion/Android/AndroidDrop/feature/feature-diagnostics/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest12166414047713336876.xml reason: use-sdk injection requested
+INJECTED from /run/media/shadowos/DATOS/Programacion/Android/AndroidDrop/feature/feature-diagnostics/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest12166414047713336876.xml
+INJECTED from /run/media/shadowos/DATOS/Programacion/Android/AndroidDrop/feature/feature-diagnostics/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest12166414047713336876.xml
+	android:targetSdkVersion
+		INJECTED from /run/media/shadowos/DATOS/Programacion/Android/AndroidDrop/feature/feature-diagnostics/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest12166414047713336876.xml
+	android:minSdkVersion
+		INJECTED from /run/media/shadowos/DATOS/Programacion/Android/AndroidDrop/feature/feature-diagnostics/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest12166414047713336876.xml

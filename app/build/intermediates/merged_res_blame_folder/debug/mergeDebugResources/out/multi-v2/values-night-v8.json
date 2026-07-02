@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.androiddrop.app-mergeDebugResources-64:/values-night-v8/values-night-v8.xml",
+            "map": [
+                {
+                    "source": "/home/shadowos/.gradle/caches/9.3.0/transforms/b94a1c80a36e478be1214070d08b6d3e/transformed/core-splashscreen-1.0.1/res/values-night-v8/values-night-v8.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "85",
+                        "endOffsets": "136"
+                    }
+                }
+            ]
+        }
+    ]
+}

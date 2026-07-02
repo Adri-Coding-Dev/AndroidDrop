@@ -1,0 +1,16 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /run/media/shadowos/DATOS/Programacion/Android/AndroidDrop/data/data-file-system/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest16957880401270966661.xml:2:13-83
+INJECTED from /run/media/shadowos/DATOS/Programacion/Android/AndroidDrop/data/data-file-system/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest16957880401270966661.xml:2:13-83
+	package
+		INJECTED from /run/media/shadowos/DATOS/Programacion/Android/AndroidDrop/data/data-file-system/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest16957880401270966661.xml
+	xmlns:android
+		ADDED from /run/media/shadowos/DATOS/Programacion/Android/AndroidDrop/data/data-file-system/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest16957880401270966661.xml:2:23-81
+uses-sdk
+INJECTED from /run/media/shadowos/DATOS/Programacion/Android/AndroidDrop/data/data-file-system/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest16957880401270966661.xml reason: use-sdk injection requested
+INJECTED from /run/media/shadowos/DATOS/Programacion/Android/AndroidDrop/data/data-file-system/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest16957880401270966661.xml
+INJECTED from /run/media/shadowos/DATOS/Programacion/Android/AndroidDrop/data/data-file-system/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest16957880401270966661.xml
+	android:targetSdkVersion
+		INJECTED from /run/media/shadowos/DATOS/Programacion/Android/AndroidDrop/data/data-file-system/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest16957880401270966661.xml
+	android:minSdkVersion
+		INJECTED from /run/media/shadowos/DATOS/Programacion/Android/AndroidDrop/data/data-file-system/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest16957880401270966661.xml

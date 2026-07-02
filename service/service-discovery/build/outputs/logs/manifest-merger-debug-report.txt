@@ -1,0 +1,26 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /run/media/shadowos/DATOS/Programacion/Android/AndroidDrop/service/service-discovery/src/main/AndroidManifest.xml:2:1-11:12
+INJECTED from /run/media/shadowos/DATOS/Programacion/Android/AndroidDrop/service/service-discovery/src/main/AndroidManifest.xml:2:1-11:12
+	package
+		INJECTED from /run/media/shadowos/DATOS/Programacion/Android/AndroidDrop/service/service-discovery/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /run/media/shadowos/DATOS/Programacion/Android/AndroidDrop/service/service-discovery/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /run/media/shadowos/DATOS/Programacion/Android/AndroidDrop/service/service-discovery/src/main/AndroidManifest.xml:4:5-9:19
+service#com.androiddrop.service.discovery.DiscoveryService
+ADDED from /run/media/shadowos/DATOS/Programacion/Android/AndroidDrop/service/service-discovery/src/main/AndroidManifest.xml:5:9-8:40
+	android:exported
+		ADDED from /run/media/shadowos/DATOS/Programacion/Android/AndroidDrop/service/service-discovery/src/main/AndroidManifest.xml:8:13-37
+	android:foregroundServiceType
+		ADDED from /run/media/shadowos/DATOS/Programacion/Android/AndroidDrop/service/service-discovery/src/main/AndroidManifest.xml:7:13-60
+	android:name
+		ADDED from /run/media/shadowos/DATOS/Programacion/Android/AndroidDrop/service/service-discovery/src/main/AndroidManifest.xml:6:13-45
+uses-sdk
+INJECTED from /run/media/shadowos/DATOS/Programacion/Android/AndroidDrop/service/service-discovery/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /run/media/shadowos/DATOS/Programacion/Android/AndroidDrop/service/service-discovery/src/main/AndroidManifest.xml
+INJECTED from /run/media/shadowos/DATOS/Programacion/Android/AndroidDrop/service/service-discovery/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /run/media/shadowos/DATOS/Programacion/Android/AndroidDrop/service/service-discovery/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /run/media/shadowos/DATOS/Programacion/Android/AndroidDrop/service/service-discovery/src/main/AndroidManifest.xml

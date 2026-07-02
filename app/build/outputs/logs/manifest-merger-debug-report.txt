@@ -1,0 +1,624 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /run/media/shadowos/DATOS/Programacion/Android/AndroidDrop/app/src/main/AndroidManifest.xml:2:1-58:12
+INJECTED from /run/media/shadowos/DATOS/Programacion/Android/AndroidDrop/app/src/main/AndroidManifest.xml:2:1-58:12
+INJECTED from /run/media/shadowos/DATOS/Programacion/Android/AndroidDrop/app/src/main/AndroidManifest.xml:2:1-58:12
+INJECTED from /run/media/shadowos/DATOS/Programacion/Android/AndroidDrop/app/src/main/AndroidManifest.xml:2:1-58:12
+MERGED from [:feature:feature-file-explorer] /run/media/shadowos/DATOS/Programacion/Android/AndroidDrop/feature/feature-file-explorer/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:2:1-7:12
+MERGED from [:feature:feature-transfer] /run/media/shadowos/DATOS/Programacion/Android/AndroidDrop/feature/feature-transfer/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:2:1-7:12
+MERGED from [:feature:feature-discovery] /run/media/shadowos/DATOS/Programacion/Android/AndroidDrop/feature/feature-discovery/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:2:1-7:12
+MERGED from [:feature:feature-settings] /run/media/shadowos/DATOS/Programacion/Android/AndroidDrop/feature/feature-settings/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:2:1-7:12
+MERGED from [:feature:feature-diagnostics] /run/media/shadowos/DATOS/Programacion/Android/AndroidDrop/feature/feature-diagnostics/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:2:1-7:12
+MERGED from [:core:core-ui] /run/media/shadowos/DATOS/Programacion/Android/AndroidDrop/core/core-ui/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:2:1-7:12
+MERGED from [:service:service-discovery] /run/media/shadowos/DATOS/Programacion/Android/AndroidDrop/service/service-discovery/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:2:1-14:12
+MERGED from [:data:data-ble] /run/media/shadowos/DATOS/Programacion/Android/AndroidDrop/data/data-ble/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:2:1-7:12
+MERGED from [:service:service-transfer] /run/media/shadowos/DATOS/Programacion/Android/AndroidDrop/service/service-transfer/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:2:1-18:12
+MERGED from [:data:data-transfer] /run/media/shadowos/DATOS/Programacion/Android/AndroidDrop/data/data-transfer/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:2:1-7:12
+MERGED from [:security:security-key-exchange] /run/media/shadowos/DATOS/Programacion/Android/AndroidDrop/security/security-key-exchange/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:2:1-7:12
+MERGED from [:security:security-crypto] /run/media/shadowos/DATOS/Programacion/Android/AndroidDrop/security/security-crypto/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:2:1-7:12
+MERGED from [:core:core-crypto] /run/media/shadowos/DATOS/Programacion/Android/AndroidDrop/core/core-crypto/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:2:1-7:12
+MERGED from [:core:core-testing] /run/media/shadowos/DATOS/Programacion/Android/AndroidDrop/core/core-testing/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:2:1-7:12
+MERGED from [:domain:domain-usecase] /run/media/shadowos/DATOS/Programacion/Android/AndroidDrop/domain/domain-usecase/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:2:1-7:12
+MERGED from [:data:data-file-system] /run/media/shadowos/DATOS/Programacion/Android/AndroidDrop/data/data-file-system/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:2:1-7:12
+MERGED from [:data:data-wifi-direct] /run/media/shadowos/DATOS/Programacion/Android/AndroidDrop/data/data-wifi-direct/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:2:1-7:12
+MERGED from [:data:data-nearby] /run/media/shadowos/DATOS/Programacion/Android/AndroidDrop/data/data-nearby/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:2:1-7:12
+MERGED from [:sync:sync-protocol] /run/media/shadowos/DATOS/Programacion/Android/AndroidDrop/sync/sync-protocol/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:2:1-7:12
+MERGED from [:domain:domain-repository] /run/media/shadowos/DATOS/Programacion/Android/AndroidDrop/domain/domain-repository/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:2:1-7:12
+MERGED from [:domain:domain-model] /run/media/shadowos/DATOS/Programacion/Android/AndroidDrop/domain/domain-model/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:2:1-7:12
+MERGED from [:core:core-network] /run/media/shadowos/DATOS/Programacion/Android/AndroidDrop/core/core-network/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:2:1-7:12
+MERGED from [:animation:animation-sphere] /run/media/shadowos/DATOS/Programacion/Android/AndroidDrop/animation/animation-sphere/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:2:1-7:12
+MERGED from [:animation:animation-portal] /run/media/shadowos/DATOS/Programacion/Android/AndroidDrop/animation/animation-portal/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:2:1-7:12
+MERGED from [:animation:animation-particles] /run/media/shadowos/DATOS/Programacion/Android/AndroidDrop/animation/animation-particles/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:2:1-7:12
+MERGED from [:animation:animation-gesture] /run/media/shadowos/DATOS/Programacion/Android/AndroidDrop/animation/animation-gesture/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:2:1-7:12
+MERGED from [:animation:animation-engine] /run/media/shadowos/DATOS/Programacion/Android/AndroidDrop/animation/animation-engine/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:2:1-7:12
+MERGED from [:core:core-common] /run/media/shadowos/DATOS/Programacion/Android/AndroidDrop/core/core-common/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-nearby:19.0.0] /home/shadowos/.gradle/caches/9.3.0/transforms/9de7db3fdd1f6edd588e17fbb86ad79e/transformed/play-services-nearby-19.0.0/AndroidManifest.xml:2:1-16:12
+MERGED from [androidx.hilt:hilt-navigation-compose:1.2.0] /home/shadowos/.gradle/caches/9.3.0/transforms/257c1865c3c35793779d3cdea105ff16/transformed/hilt-navigation-compose-1.2.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.hilt:hilt-navigation:1.2.0] /home/shadowos/.gradle/caches/9.3.0/transforms/00faa7bf35b1297b0b88309c1b399844/transformed/hilt-navigation-1.2.0/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.dagger:hilt-android:2.51.1] /home/shadowos/.gradle/caches/9.3.0/transforms/9bce8085ff0276f56055adbbe30d08e7/transformed/hilt-android-2.51.1/AndroidManifest.xml:16:1-19:12
+MERGED from [androidx.navigation:navigation-common:2.8.2] /home/shadowos/.gradle/caches/9.3.0/transforms/bf8e52c72e2d51817c9fc79019d7fb1b/transformed/navigation-common-2.8.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-common-ktx:2.8.2] /home/shadowos/.gradle/caches/9.3.0/transforms/9f9adf8aaf2d5e0d0732bcb9a4908314/transformed/navigation-common-ktx-2.8.2/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.navigation:navigation-runtime:2.8.2] /home/shadowos/.gradle/caches/9.3.0/transforms/0bc0bf7006970ac5a33ba3043608181c/transformed/navigation-runtime-2.8.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.8.2] /home/shadowos/.gradle/caches/9.3.0/transforms/e275c5d7aaa219a5ba2ece6cd105a935/transformed/navigation-runtime-ktx-2.8.2/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.navigation:navigation-compose:2.8.2] /home/shadowos/.gradle/caches/9.3.0/transforms/8002e6cc5a2072d1187347635758f64c/transformed/navigation-compose-2.8.2/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-base:18.0.1] /home/shadowos/.gradle/caches/9.3.0/transforms/c3c115558d46f2fddc89667121a229a7/transformed/play-services-base-18.0.1/AndroidManifest.xml:16:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] /home/shadowos/.gradle/caches/9.3.0/transforms/a0ab4729eae36a30cfc1c41cf4623201/transformed/play-services-tasks-18.0.1/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] /home/shadowos/.gradle/caches/9.3.0/transforms/6961d279641cb835b2322479cf048f51/transformed/play-services-basement-18.0.0/AndroidManifest.xml:16:1-26:12
+MERGED from [androidx.fragment:fragment:1.5.1] /home/shadowos/.gradle/caches/9.3.0/transforms/acf2899bf43f206e5b4149656e75a662/transformed/fragment-1.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.material3:material3-android:1.3.0] /home/shadowos/.gradle/caches/9.3.0/transforms/702463a1ab8b0311ee1fed7810a5a533/transformed/material3-release/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.material:material-android:1.7.4] /home/shadowos/.gradle/caches/9.3.0/transforms/8494148bd4aa74eeb58ba96ef5f3ce04/transformed/material-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.animation:animation-core-android:1.7.4] /home/shadowos/.gradle/caches/9.3.0/transforms/ba27b0f3da385b5f20c5ad8e34c1a9d8/transformed/animation-core-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material:material-ripple-android:1.7.4] /home/shadowos/.gradle/caches/9.3.0/transforms/8b457a39728e96e04206133f54195e08/transformed/material-ripple-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.animation:animation-android:1.7.4] /home/shadowos/.gradle/caches/9.3.0/transforms/10c4f38958fe5fb8474605ed74bd1a6f/transformed/animation-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.7.4] /home/shadowos/.gradle/caches/9.3.0/transforms/2127b1bb6042d4b6fe96acba5c784b44/transformed/foundation-layout-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.foundation:foundation-android:1.7.4] /home/shadowos/.gradle/caches/9.3.0/transforms/8084149f037474e9e72bebe467c44b26/transformed/foundation-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-tooling-data-android:1.7.4] /home/shadowos/.gradle/caches/9.3.0/transforms/f0fc65aa202bc9ab419a51659a20e5a6/transformed/ui-tooling-data-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-unit-android:1.7.4] /home/shadowos/.gradle/caches/9.3.0/transforms/7242c40e8659b88b0ecf1f1fbc2a63d5/transformed/ui-unit-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-geometry-android:1.7.4] /home/shadowos/.gradle/caches/9.3.0/transforms/4d18208a4704299c0f275d3150a640a9/transformed/ui-geometry-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-util-android:1.7.4] /home/shadowos/.gradle/caches/9.3.0/transforms/b1b92993b849446831ab66af3e21aba5/transformed/ui-util-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-text-android:1.7.4] /home/shadowos/.gradle/caches/9.3.0/transforms/1449b81ef3ed7ffd924cff54304f01ec/transformed/ui-text-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.7.4] /home/shadowos/.gradle/caches/9.3.0/transforms/88d658264fa728dff043473e6cf9f122/transformed/ui-tooling-preview-release/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.ui:ui-graphics-android:1.7.4] /home/shadowos/.gradle/caches/9.3.0/transforms/2db163c7d322f1a0c06c1d0ee0679a14/transformed/ui-graphics-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-tooling-android:1.7.4] /home/shadowos/.gradle/caches/9.3.0/transforms/5b8a1a0169ed79dfa70d3751ee1ffe59/transformed/ui-tooling-release/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] /home/shadowos/.gradle/caches/9.3.0/transforms/deca7d74bfc4eea89da4924c4183c7b0/transformed/savedstate-ktx-1.2.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] /home/shadowos/.gradle/caches/9.3.0/transforms/9f00e90680d2331dca089bcba35d7487/transformed/savedstate-1.2.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/shadowos/.gradle/caches/9.3.0/transforms/c8771eb3fbf27da515c5c88b3813250e/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.emoji2:emoji2:1.3.0] /home/shadowos/.gradle/caches/9.3.0/transforms/f9228cc6c1786c0dfb792b563981e5b6/transformed/emoji2-1.3.0/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.5] /home/shadowos/.gradle/caches/9.3.0/transforms/5a45b5e8729e75c70e3fb5d7659c6832/transformed/lifecycle-process-2.8.5/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.8.5] /home/shadowos/.gradle/caches/9.3.0/transforms/a5e222a3b026cf9dacc8d380cecbbec0/transformed/lifecycle-livedata-core-ktx-2.8.5/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.8.5] /home/shadowos/.gradle/caches/9.3.0/transforms/ef5ee3b759ead9a6b019fec4bb5bc5be/transformed/lifecycle-livedata-2.8.5/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.8.5] /home/shadowos/.gradle/caches/9.3.0/transforms/c9e40e6b7c7481e7b4979e5393a93b3f/transformed/lifecycle-viewmodel-2.8.5/AndroidManifest.xml:2:1-5:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.8.5] /home/shadowos/.gradle/caches/9.3.0/transforms/721d9e382f77108ec7523116362fa4e6/transformed/lifecycle-viewmodel-release/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.8.5] /home/shadowos/.gradle/caches/9.3.0/transforms/d0737b89658a378f3680eb26acad07b6/transformed/lifecycle-runtime-ktx-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.8.5] /home/shadowos/.gradle/caches/9.3.0/transforms/efa41f6abb6967b98c357c1eeeae7a37/transformed/lifecycle-runtime-release/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.8.5] /home/shadowos/.gradle/caches/9.3.0/transforms/7851c3c9135563ea5e177a93797b3c48/transformed/lifecycle-livedata-core-2.8.5/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.8.5] /home/shadowos/.gradle/caches/9.3.0/transforms/20754f7c5a3bccf25b295af3ca7dacfc/transformed/lifecycle-viewmodel-savedstate-2.8.5/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.8.5] /home/shadowos/.gradle/caches/9.3.0/transforms/f0cb5b93485d5a03187365adce4ac788/transformed/lifecycle-viewmodel-ktx-2.8.5/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-compose-android:2.8.5] /home/shadowos/.gradle/caches/9.3.0/transforms/6406c6cab1f0c3426412836e59564491/transformed/lifecycle-runtime-compose-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose-android:2.8.5] /home/shadowos/.gradle/caches/9.3.0/transforms/939225e2b890e66e2867fe4f55851ca6/transformed/lifecycle-viewmodel-compose-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material:material-icons-extended-android:1.7.4] /home/shadowos/.gradle/caches/9.3.0/transforms/1bc5f974536aeb827d74c793e8f83510/transformed/material-icons-extended-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material:material-icons-core-android:1.7.4] /home/shadowos/.gradle/caches/9.3.0/transforms/3083b6d4eea01d13b5405b2a9e5d4b88/transformed/material-icons-core-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-android:1.7.4] /home/shadowos/.gradle/caches/9.3.0/transforms/8b0f56a382af9862ca53ae09163e3819/transformed/ui-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.activity:activity-ktx:1.9.2] /home/shadowos/.gradle/caches/9.3.0/transforms/69c24221abc173442f4ec92e31e519e7/transformed/activity-ktx-1.9.2/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.activity:activity-compose:1.9.2] /home/shadowos/.gradle/caches/9.3.0/transforms/d48e26d92c0a21bdaf75c0b0c5f84920/transformed/activity-compose-1.9.2/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.activity:activity:1.9.2] /home/shadowos/.gradle/caches/9.3.0/transforms/c79a6d9aaf6a0508fc73ee5fe315940b/transformed/activity-1.9.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/shadowos/.gradle/caches/9.3.0/transforms/72c121405818d4fd38ef329d82c623b0/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /home/shadowos/.gradle/caches/9.3.0/transforms/e38880806feac509df73c83535328dc6/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.autofill:autofill:1.0.0] /home/shadowos/.gradle/caches/9.3.0/transforms/f9e0d90342b95ebb5b686fd345f487c4/transformed/autofill-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.graphics:graphics-path:1.0.1] /home/shadowos/.gradle/caches/9.3.0/transforms/2715778b69227cf59acab17a28f24593/transformed/graphics-path-1.0.1/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.core:core:1.13.1] /home/shadowos/.gradle/caches/9.3.0/transforms/9b684ae8057db9c1f41a82ec1c82ea7f/transformed/core-1.13.1/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /home/shadowos/.gradle/caches/9.3.0/transforms/37e140abda899da79bf797a012fba15c/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.core:core-ktx:1.13.1] /home/shadowos/.gradle/caches/9.3.0/transforms/134c4150eafe96b717d90258a8be3149/transformed/core-ktx-1.13.1/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.core:core-splashscreen:1.0.1] /home/shadowos/.gradle/caches/9.3.0/transforms/b94a1c80a36e478be1214070d08b6d3e/transformed/core-splashscreen-1.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.7.4] /home/shadowos/.gradle/caches/9.3.0/transforms/fd9deaac54b1e81ce2c8c3b3669e245b/transformed/runtime-saveable-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.runtime:runtime-android:1.7.4] /home/shadowos/.gradle/caches/9.3.0/transforms/f2c49edf99fce2b9e5e5800450d52761/transformed/runtime-release/AndroidManifest.xml:2:1-7:12
+MERGED from [com.jakewharton.timber:timber:5.0.1] /home/shadowos/.gradle/caches/9.3.0/transforms/6ffa62844042cb776a947c416c13af0e/transformed/timber-5.0.1/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] /home/shadowos/.gradle/caches/9.3.0/transforms/6c78adeb2c9ce853f445149010dbc04e/transformed/annotation-experimental-1.4.1/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/shadowos/.gradle/caches/9.3.0/transforms/a2a2782dc2a7eb6a50a9c5e32e75228e/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.documentfile:documentfile:1.0.1] /home/shadowos/.gradle/caches/9.3.0/transforms/f24ff5e4e125560c0eec7c37df5fe091/transformed/documentfile-1.0.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/shadowos/.gradle/caches/9.3.0/transforms/eb2af50f1ed9376d82377ef6eb5152e1/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/shadowos/.gradle/caches/9.3.0/transforms/ca4046aecbe2898fda88904b53fddb71/transformed/profileinstaller-1.3.1/AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/shadowos/.gradle/caches/9.3.0/transforms/07537ec133b1aa7239d6bbb887a397b6/transformed/startup-runtime-1.1.1/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] /home/shadowos/.gradle/caches/9.3.0/transforms/616ae2fbbcd70702ebf4c5d3f533b999/transformed/tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /home/shadowos/.gradle/caches/9.3.0/transforms/c3169ccd31c104e4d4a5dabb5b9c53f2/transformed/core-runtime-2.2.0/AndroidManifest.xml:17:1-22:12
+MERGED from [org.conscrypt:conscrypt-android:2.5.2] /home/shadowos/.gradle/caches/9.3.0/transforms/a0b2af2513e34a7e71b5ce75ae3c9f8b/transformed/conscrypt-android-2.5.2/AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.dagger:dagger-lint-aar:2.51.1] /home/shadowos/.gradle/caches/9.3.0/transforms/5d11657721f260a8a635d4a1edb365d8/transformed/dagger-lint-aar-2.51.1/AndroidManifest.xml:16:1-19:12
+	package
+		INJECTED from /run/media/shadowos/DATOS/Programacion/Android/AndroidDrop/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /run/media/shadowos/DATOS/Programacion/Android/AndroidDrop/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /run/media/shadowos/DATOS/Programacion/Android/AndroidDrop/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /run/media/shadowos/DATOS/Programacion/Android/AndroidDrop/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.BLUETOOTH
+ADDED from /run/media/shadowos/DATOS/Programacion/Android/AndroidDrop/app/src/main/AndroidManifest.xml:5:5-68
+	android:name
+		ADDED from /run/media/shadowos/DATOS/Programacion/Android/AndroidDrop/app/src/main/AndroidManifest.xml:5:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from /run/media/shadowos/DATOS/Programacion/Android/AndroidDrop/app/src/main/AndroidManifest.xml:6:5-74
+	android:name
+		ADDED from /run/media/shadowos/DATOS/Programacion/Android/AndroidDrop/app/src/main/AndroidManifest.xml:6:22-71
+uses-permission#android.permission.BLUETOOTH_ADVERTISE
+ADDED from /run/media/shadowos/DATOS/Programacion/Android/AndroidDrop/app/src/main/AndroidManifest.xml:7:5-78
+	android:name
+		ADDED from /run/media/shadowos/DATOS/Programacion/Android/AndroidDrop/app/src/main/AndroidManifest.xml:7:22-75
+uses-permission#android.permission.BLUETOOTH_SCAN
+ADDED from /run/media/shadowos/DATOS/Programacion/Android/AndroidDrop/app/src/main/AndroidManifest.xml:8:5-73
+	android:name
+		ADDED from /run/media/shadowos/DATOS/Programacion/Android/AndroidDrop/app/src/main/AndroidManifest.xml:8:22-70
+uses-permission#android.permission.BLUETOOTH_CONNECT
+ADDED from /run/media/shadowos/DATOS/Programacion/Android/AndroidDrop/app/src/main/AndroidManifest.xml:9:5-76
+	android:name
+		ADDED from /run/media/shadowos/DATOS/Programacion/Android/AndroidDrop/app/src/main/AndroidManifest.xml:9:22-73
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /run/media/shadowos/DATOS/Programacion/Android/AndroidDrop/app/src/main/AndroidManifest.xml:10:5-79
+	android:name
+		ADDED from /run/media/shadowos/DATOS/Programacion/Android/AndroidDrop/app/src/main/AndroidManifest.xml:10:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /run/media/shadowos/DATOS/Programacion/Android/AndroidDrop/app/src/main/AndroidManifest.xml:11:5-81
+	android:name
+		ADDED from /run/media/shadowos/DATOS/Programacion/Android/AndroidDrop/app/src/main/AndroidManifest.xml:11:22-78
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from /run/media/shadowos/DATOS/Programacion/Android/AndroidDrop/app/src/main/AndroidManifest.xml:14:5-76
+	android:name
+		ADDED from /run/media/shadowos/DATOS/Programacion/Android/AndroidDrop/app/src/main/AndroidManifest.xml:14:22-73
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from /run/media/shadowos/DATOS/Programacion/Android/AndroidDrop/app/src/main/AndroidManifest.xml:15:5-76
+	android:name
+		ADDED from /run/media/shadowos/DATOS/Programacion/Android/AndroidDrop/app/src/main/AndroidManifest.xml:15:22-73
+uses-permission#android.permission.NEARBY_WIFI_DEVICES
+ADDED from /run/media/shadowos/DATOS/Programacion/Android/AndroidDrop/app/src/main/AndroidManifest.xml:16:5-78
+	android:name
+		ADDED from /run/media/shadowos/DATOS/Programacion/Android/AndroidDrop/app/src/main/AndroidManifest.xml:16:22-75
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from /run/media/shadowos/DATOS/Programacion/Android/AndroidDrop/app/src/main/AndroidManifest.xml:19:5-77
+	android:name
+		ADDED from /run/media/shadowos/DATOS/Programacion/Android/AndroidDrop/app/src/main/AndroidManifest.xml:19:22-74
+uses-permission#android.permission.FOREGROUND_SERVICE_CONNECTED_DEVICE
+ADDED from /run/media/shadowos/DATOS/Programacion/Android/AndroidDrop/app/src/main/AndroidManifest.xml:20:5-94
+	android:name
+		ADDED from /run/media/shadowos/DATOS/Programacion/Android/AndroidDrop/app/src/main/AndroidManifest.xml:20:22-91
+uses-permission#android.permission.FOREGROUND_SERVICE_DATA_SYNC
+ADDED from /run/media/shadowos/DATOS/Programacion/Android/AndroidDrop/app/src/main/AndroidManifest.xml:21:5-87
+	android:name
+		ADDED from /run/media/shadowos/DATOS/Programacion/Android/AndroidDrop/app/src/main/AndroidManifest.xml:21:22-84
+uses-permission#android.permission.POST_NOTIFICATIONS
+ADDED from /run/media/shadowos/DATOS/Programacion/Android/AndroidDrop/app/src/main/AndroidManifest.xml:22:5-77
+	android:name
+		ADDED from /run/media/shadowos/DATOS/Programacion/Android/AndroidDrop/app/src/main/AndroidManifest.xml:22:22-74
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /run/media/shadowos/DATOS/Programacion/Android/AndroidDrop/app/src/main/AndroidManifest.xml:25:5-26:38
+	android:maxSdkVersion
+		ADDED from /run/media/shadowos/DATOS/Programacion/Android/AndroidDrop/app/src/main/AndroidManifest.xml:26:9-35
+	android:name
+		ADDED from /run/media/shadowos/DATOS/Programacion/Android/AndroidDrop/app/src/main/AndroidManifest.xml:25:22-77
+uses-feature#android.hardware.bluetooth_le
+ADDED from /run/media/shadowos/DATOS/Programacion/Android/AndroidDrop/app/src/main/AndroidManifest.xml:29:5-90
+	android:required
+		ADDED from /run/media/shadowos/DATOS/Programacion/Android/AndroidDrop/app/src/main/AndroidManifest.xml:29:64-87
+	android:name
+		ADDED from /run/media/shadowos/DATOS/Programacion/Android/AndroidDrop/app/src/main/AndroidManifest.xml:29:19-63
+uses-feature#android.hardware.wifi
+ADDED from /run/media/shadowos/DATOS/Programacion/Android/AndroidDrop/app/src/main/AndroidManifest.xml:30:5-82
+	android:required
+		ADDED from /run/media/shadowos/DATOS/Programacion/Android/AndroidDrop/app/src/main/AndroidManifest.xml:30:56-79
+	android:name
+		ADDED from /run/media/shadowos/DATOS/Programacion/Android/AndroidDrop/app/src/main/AndroidManifest.xml:30:19-55
+uses-feature#android.hardware.wifi.direct
+ADDED from /run/media/shadowos/DATOS/Programacion/Android/AndroidDrop/app/src/main/AndroidManifest.xml:31:5-89
+	android:required
+		ADDED from /run/media/shadowos/DATOS/Programacion/Android/AndroidDrop/app/src/main/AndroidManifest.xml:31:63-86
+	android:name
+		ADDED from /run/media/shadowos/DATOS/Programacion/Android/AndroidDrop/app/src/main/AndroidManifest.xml:31:19-62
+uses-feature#android.hardware.opengles.version_3_0
+ADDED from /run/media/shadowos/DATOS/Programacion/Android/AndroidDrop/app/src/main/AndroidManifest.xml:32:5-98
+	android:required
+		ADDED from /run/media/shadowos/DATOS/Programacion/Android/AndroidDrop/app/src/main/AndroidManifest.xml:32:72-95
+	android:name
+		ADDED from /run/media/shadowos/DATOS/Programacion/Android/AndroidDrop/app/src/main/AndroidManifest.xml:32:19-71
+application
+ADDED from /run/media/shadowos/DATOS/Programacion/Android/AndroidDrop/app/src/main/AndroidManifest.xml:34:5-56:19
+INJECTED from /run/media/shadowos/DATOS/Programacion/Android/AndroidDrop/app/src/main/AndroidManifest.xml:34:5-56:19
+MERGED from [:service:service-discovery] /run/media/shadowos/DATOS/Programacion/Android/AndroidDrop/service/service-discovery/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:7:5-12:19
+MERGED from [:service:service-discovery] /run/media/shadowos/DATOS/Programacion/Android/AndroidDrop/service/service-discovery/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:7:5-12:19
+MERGED from [:service:service-transfer] /run/media/shadowos/DATOS/Programacion/Android/AndroidDrop/service/service-transfer/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:7:5-16:19
+MERGED from [:service:service-transfer] /run/media/shadowos/DATOS/Programacion/Android/AndroidDrop/service/service-transfer/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:7:5-16:19
+MERGED from [com.google.android.gms:play-services-nearby:19.0.0] /home/shadowos/.gradle/caches/9.3.0/transforms/9de7db3fdd1f6edd588e17fbb86ad79e/transformed/play-services-nearby-19.0.0/AndroidManifest.xml:9:5-14:19
+MERGED from [com.google.android.gms:play-services-nearby:19.0.0] /home/shadowos/.gradle/caches/9.3.0/transforms/9de7db3fdd1f6edd588e17fbb86ad79e/transformed/play-services-nearby-19.0.0/AndroidManifest.xml:9:5-14:19
+MERGED from [com.google.android.gms:play-services-base:18.0.1] /home/shadowos/.gradle/caches/9.3.0/transforms/c3c115558d46f2fddc89667121a229a7/transformed/play-services-base-18.0.1/AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-base:18.0.1] /home/shadowos/.gradle/caches/9.3.0/transforms/c3c115558d46f2fddc89667121a229a7/transformed/play-services-base-18.0.1/AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] /home/shadowos/.gradle/caches/9.3.0/transforms/a0ab4729eae36a30cfc1c41cf4623201/transformed/play-services-tasks-18.0.1/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] /home/shadowos/.gradle/caches/9.3.0/transforms/a0ab4729eae36a30cfc1c41cf4623201/transformed/play-services-tasks-18.0.1/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] /home/shadowos/.gradle/caches/9.3.0/transforms/6961d279641cb835b2322479cf048f51/transformed/play-services-basement-18.0.0/AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] /home/shadowos/.gradle/caches/9.3.0/transforms/6961d279641cb835b2322479cf048f51/transformed/play-services-basement-18.0.0/AndroidManifest.xml:20:5-24:19
+MERGED from [androidx.compose.ui:ui-tooling-android:1.7.4] /home/shadowos/.gradle/caches/9.3.0/transforms/5b8a1a0169ed79dfa70d3751ee1ffe59/transformed/ui-tooling-release/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.compose.ui:ui-tooling-android:1.7.4] /home/shadowos/.gradle/caches/9.3.0/transforms/5b8a1a0169ed79dfa70d3751ee1ffe59/transformed/ui-tooling-release/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.emoji2:emoji2:1.3.0] /home/shadowos/.gradle/caches/9.3.0/transforms/f9228cc6c1786c0dfb792b563981e5b6/transformed/emoji2-1.3.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.3.0] /home/shadowos/.gradle/caches/9.3.0/transforms/f9228cc6c1786c0dfb792b563981e5b6/transformed/emoji2-1.3.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.5] /home/shadowos/.gradle/caches/9.3.0/transforms/5a45b5e8729e75c70e3fb5d7659c6832/transformed/lifecycle-process-2.8.5/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.5] /home/shadowos/.gradle/caches/9.3.0/transforms/5a45b5e8729e75c70e3fb5d7659c6832/transformed/lifecycle-process-2.8.5/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.13.1] /home/shadowos/.gradle/caches/9.3.0/transforms/9b684ae8057db9c1f41a82ec1c82ea7f/transformed/core-1.13.1/AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.13.1] /home/shadowos/.gradle/caches/9.3.0/transforms/9b684ae8057db9c1f41a82ec1c82ea7f/transformed/core-1.13.1/AndroidManifest.xml:28:5-89
+MERGED from [com.jakewharton.timber:timber:5.0.1] /home/shadowos/.gradle/caches/9.3.0/transforms/6ffa62844042cb776a947c416c13af0e/transformed/timber-5.0.1/AndroidManifest.xml:7:5-20
+MERGED from [com.jakewharton.timber:timber:5.0.1] /home/shadowos/.gradle/caches/9.3.0/transforms/6ffa62844042cb776a947c416c13af0e/transformed/timber-5.0.1/AndroidManifest.xml:7:5-20
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/shadowos/.gradle/caches/9.3.0/transforms/a2a2782dc2a7eb6a50a9c5e32e75228e/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/shadowos/.gradle/caches/9.3.0/transforms/a2a2782dc2a7eb6a50a9c5e32e75228e/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/shadowos/.gradle/caches/9.3.0/transforms/ca4046aecbe2898fda88904b53fddb71/transformed/profileinstaller-1.3.1/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/shadowos/.gradle/caches/9.3.0/transforms/ca4046aecbe2898fda88904b53fddb71/transformed/profileinstaller-1.3.1/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/shadowos/.gradle/caches/9.3.0/transforms/07537ec133b1aa7239d6bbb887a397b6/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/shadowos/.gradle/caches/9.3.0/transforms/07537ec133b1aa7239d6bbb887a397b6/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [org.conscrypt:conscrypt-android:2.5.2] /home/shadowos/.gradle/caches/9.3.0/transforms/a0b2af2513e34a7e71b5ce75ae3c9f8b/transformed/conscrypt-android-2.5.2/AndroidManifest.xml:11:5-20
+MERGED from [org.conscrypt:conscrypt-android:2.5.2] /home/shadowos/.gradle/caches/9.3.0/transforms/a0b2af2513e34a7e71b5ce75ae3c9f8b/transformed/conscrypt-android-2.5.2/AndroidManifest.xml:11:5-20
+	android:extractNativeLibs
+		INJECTED from /run/media/shadowos/DATOS/Programacion/Android/AndroidDrop/app/src/main/AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.13.1] /home/shadowos/.gradle/caches/9.3.0/transforms/9b684ae8057db9c1f41a82ec1c82ea7f/transformed/core-1.13.1/AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from /run/media/shadowos/DATOS/Programacion/Android/AndroidDrop/app/src/main/AndroidManifest.xml:42:9-35
+	android:label
+		ADDED from /run/media/shadowos/DATOS/Programacion/Android/AndroidDrop/app/src/main/AndroidManifest.xml:40:9-41
+	android:fullBackupContent
+		ADDED from /run/media/shadowos/DATOS/Programacion/Android/AndroidDrop/app/src/main/AndroidManifest.xml:38:9-42
+	android:roundIcon
+		ADDED from /run/media/shadowos/DATOS/Programacion/Android/AndroidDrop/app/src/main/AndroidManifest.xml:41:9-54
+	android:icon
+		ADDED from /run/media/shadowos/DATOS/Programacion/Android/AndroidDrop/app/src/main/AndroidManifest.xml:39:9-43
+	android:allowBackup
+		ADDED from /run/media/shadowos/DATOS/Programacion/Android/AndroidDrop/app/src/main/AndroidManifest.xml:36:9-36
+	android:theme
+		ADDED from /run/media/shadowos/DATOS/Programacion/Android/AndroidDrop/app/src/main/AndroidManifest.xml:43:9-49
+	android:networkSecurityConfig
+		ADDED from /run/media/shadowos/DATOS/Programacion/Android/AndroidDrop/app/src/main/AndroidManifest.xml:44:9-69
+	android:dataExtractionRules
+		ADDED from /run/media/shadowos/DATOS/Programacion/Android/AndroidDrop/app/src/main/AndroidManifest.xml:37:9-65
+	android:name
+		ADDED from /run/media/shadowos/DATOS/Programacion/Android/AndroidDrop/app/src/main/AndroidManifest.xml:35:9-47
+activity#com.androiddrop.app.MainActivity
+ADDED from /run/media/shadowos/DATOS/Programacion/Android/AndroidDrop/app/src/main/AndroidManifest.xml:46:9-54:20
+	android:exported
+		ADDED from /run/media/shadowos/DATOS/Programacion/Android/AndroidDrop/app/src/main/AndroidManifest.xml:48:13-36
+	android:theme
+		ADDED from /run/media/shadowos/DATOS/Programacion/Android/AndroidDrop/app/src/main/AndroidManifest.xml:49:13-53
+	android:name
+		ADDED from /run/media/shadowos/DATOS/Programacion/Android/AndroidDrop/app/src/main/AndroidManifest.xml:47:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /run/media/shadowos/DATOS/Programacion/Android/AndroidDrop/app/src/main/AndroidManifest.xml:50:13-53:29
+action#android.intent.action.MAIN
+ADDED from /run/media/shadowos/DATOS/Programacion/Android/AndroidDrop/app/src/main/AndroidManifest.xml:51:17-69
+	android:name
+		ADDED from /run/media/shadowos/DATOS/Programacion/Android/AndroidDrop/app/src/main/AndroidManifest.xml:51:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /run/media/shadowos/DATOS/Programacion/Android/AndroidDrop/app/src/main/AndroidManifest.xml:52:17-77
+	android:name
+		ADDED from /run/media/shadowos/DATOS/Programacion/Android/AndroidDrop/app/src/main/AndroidManifest.xml:52:27-74
+uses-sdk
+INJECTED from /run/media/shadowos/DATOS/Programacion/Android/AndroidDrop/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /run/media/shadowos/DATOS/Programacion/Android/AndroidDrop/app/src/main/AndroidManifest.xml
+INJECTED from /run/media/shadowos/DATOS/Programacion/Android/AndroidDrop/app/src/main/AndroidManifest.xml
+MERGED from [:feature:feature-file-explorer] /run/media/shadowos/DATOS/Programacion/Android/AndroidDrop/feature/feature-file-explorer/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:5:5-44
+MERGED from [:feature:feature-file-explorer] /run/media/shadowos/DATOS/Programacion/Android/AndroidDrop/feature/feature-file-explorer/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:5:5-44
+MERGED from [:feature:feature-transfer] /run/media/shadowos/DATOS/Programacion/Android/AndroidDrop/feature/feature-transfer/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:5:5-44
+MERGED from [:feature:feature-transfer] /run/media/shadowos/DATOS/Programacion/Android/AndroidDrop/feature/feature-transfer/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:5:5-44
+MERGED from [:feature:feature-discovery] /run/media/shadowos/DATOS/Programacion/Android/AndroidDrop/feature/feature-discovery/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:5:5-44
+MERGED from [:feature:feature-discovery] /run/media/shadowos/DATOS/Programacion/Android/AndroidDrop/feature/feature-discovery/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:5:5-44
+MERGED from [:feature:feature-settings] /run/media/shadowos/DATOS/Programacion/Android/AndroidDrop/feature/feature-settings/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:5:5-44
+MERGED from [:feature:feature-settings] /run/media/shadowos/DATOS/Programacion/Android/AndroidDrop/feature/feature-settings/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:5:5-44
+MERGED from [:feature:feature-diagnostics] /run/media/shadowos/DATOS/Programacion/Android/AndroidDrop/feature/feature-diagnostics/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:5:5-44
+MERGED from [:feature:feature-diagnostics] /run/media/shadowos/DATOS/Programacion/Android/AndroidDrop/feature/feature-diagnostics/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:5:5-44
+MERGED from [:core:core-ui] /run/media/shadowos/DATOS/Programacion/Android/AndroidDrop/core/core-ui/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:5:5-44
+MERGED from [:core:core-ui] /run/media/shadowos/DATOS/Programacion/Android/AndroidDrop/core/core-ui/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:5:5-44
+MERGED from [:service:service-discovery] /run/media/shadowos/DATOS/Programacion/Android/AndroidDrop/service/service-discovery/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:5:5-44
+MERGED from [:service:service-discovery] /run/media/shadowos/DATOS/Programacion/Android/AndroidDrop/service/service-discovery/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:5:5-44
+MERGED from [:data:data-ble] /run/media/shadowos/DATOS/Programacion/Android/AndroidDrop/data/data-ble/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:5:5-44
+MERGED from [:data:data-ble] /run/media/shadowos/DATOS/Programacion/Android/AndroidDrop/data/data-ble/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:5:5-44
+MERGED from [:service:service-transfer] /run/media/shadowos/DATOS/Programacion/Android/AndroidDrop/service/service-transfer/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:5:5-44
+MERGED from [:service:service-transfer] /run/media/shadowos/DATOS/Programacion/Android/AndroidDrop/service/service-transfer/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:5:5-44
+MERGED from [:data:data-transfer] /run/media/shadowos/DATOS/Programacion/Android/AndroidDrop/data/data-transfer/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:5:5-44
+MERGED from [:data:data-transfer] /run/media/shadowos/DATOS/Programacion/Android/AndroidDrop/data/data-transfer/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:5:5-44
+MERGED from [:security:security-key-exchange] /run/media/shadowos/DATOS/Programacion/Android/AndroidDrop/security/security-key-exchange/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:5:5-44
+MERGED from [:security:security-key-exchange] /run/media/shadowos/DATOS/Programacion/Android/AndroidDrop/security/security-key-exchange/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:5:5-44
+MERGED from [:security:security-crypto] /run/media/shadowos/DATOS/Programacion/Android/AndroidDrop/security/security-crypto/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:5:5-44
+MERGED from [:security:security-crypto] /run/media/shadowos/DATOS/Programacion/Android/AndroidDrop/security/security-crypto/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:5:5-44
+MERGED from [:core:core-crypto] /run/media/shadowos/DATOS/Programacion/Android/AndroidDrop/core/core-crypto/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:5:5-44
+MERGED from [:core:core-crypto] /run/media/shadowos/DATOS/Programacion/Android/AndroidDrop/core/core-crypto/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:5:5-44
+MERGED from [:core:core-testing] /run/media/shadowos/DATOS/Programacion/Android/AndroidDrop/core/core-testing/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:5:5-44
+MERGED from [:core:core-testing] /run/media/shadowos/DATOS/Programacion/Android/AndroidDrop/core/core-testing/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:5:5-44
+MERGED from [:domain:domain-usecase] /run/media/shadowos/DATOS/Programacion/Android/AndroidDrop/domain/domain-usecase/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:5:5-44
+MERGED from [:domain:domain-usecase] /run/media/shadowos/DATOS/Programacion/Android/AndroidDrop/domain/domain-usecase/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:5:5-44
+MERGED from [:data:data-file-system] /run/media/shadowos/DATOS/Programacion/Android/AndroidDrop/data/data-file-system/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:5:5-44
+MERGED from [:data:data-file-system] /run/media/shadowos/DATOS/Programacion/Android/AndroidDrop/data/data-file-system/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:5:5-44
+MERGED from [:data:data-wifi-direct] /run/media/shadowos/DATOS/Programacion/Android/AndroidDrop/data/data-wifi-direct/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:5:5-44
+MERGED from [:data:data-wifi-direct] /run/media/shadowos/DATOS/Programacion/Android/AndroidDrop/data/data-wifi-direct/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:5:5-44
+MERGED from [:data:data-nearby] /run/media/shadowos/DATOS/Programacion/Android/AndroidDrop/data/data-nearby/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:5:5-44
+MERGED from [:data:data-nearby] /run/media/shadowos/DATOS/Programacion/Android/AndroidDrop/data/data-nearby/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:5:5-44
+MERGED from [:sync:sync-protocol] /run/media/shadowos/DATOS/Programacion/Android/AndroidDrop/sync/sync-protocol/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:5:5-44
+MERGED from [:sync:sync-protocol] /run/media/shadowos/DATOS/Programacion/Android/AndroidDrop/sync/sync-protocol/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:5:5-44
+MERGED from [:domain:domain-repository] /run/media/shadowos/DATOS/Programacion/Android/AndroidDrop/domain/domain-repository/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:5:5-44
+MERGED from [:domain:domain-repository] /run/media/shadowos/DATOS/Programacion/Android/AndroidDrop/domain/domain-repository/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:5:5-44
+MERGED from [:domain:domain-model] /run/media/shadowos/DATOS/Programacion/Android/AndroidDrop/domain/domain-model/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:5:5-44
+MERGED from [:domain:domain-model] /run/media/shadowos/DATOS/Programacion/Android/AndroidDrop/domain/domain-model/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:5:5-44
+MERGED from [:core:core-network] /run/media/shadowos/DATOS/Programacion/Android/AndroidDrop/core/core-network/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:5:5-44
+MERGED from [:core:core-network] /run/media/shadowos/DATOS/Programacion/Android/AndroidDrop/core/core-network/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:5:5-44
+MERGED from [:animation:animation-sphere] /run/media/shadowos/DATOS/Programacion/Android/AndroidDrop/animation/animation-sphere/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:5:5-44
+MERGED from [:animation:animation-sphere] /run/media/shadowos/DATOS/Programacion/Android/AndroidDrop/animation/animation-sphere/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:5:5-44
+MERGED from [:animation:animation-portal] /run/media/shadowos/DATOS/Programacion/Android/AndroidDrop/animation/animation-portal/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:5:5-44
+MERGED from [:animation:animation-portal] /run/media/shadowos/DATOS/Programacion/Android/AndroidDrop/animation/animation-portal/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:5:5-44
+MERGED from [:animation:animation-particles] /run/media/shadowos/DATOS/Programacion/Android/AndroidDrop/animation/animation-particles/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:5:5-44
+MERGED from [:animation:animation-particles] /run/media/shadowos/DATOS/Programacion/Android/AndroidDrop/animation/animation-particles/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:5:5-44
+MERGED from [:animation:animation-gesture] /run/media/shadowos/DATOS/Programacion/Android/AndroidDrop/animation/animation-gesture/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:5:5-44
+MERGED from [:animation:animation-gesture] /run/media/shadowos/DATOS/Programacion/Android/AndroidDrop/animation/animation-gesture/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:5:5-44
+MERGED from [:animation:animation-engine] /run/media/shadowos/DATOS/Programacion/Android/AndroidDrop/animation/animation-engine/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:5:5-44
+MERGED from [:animation:animation-engine] /run/media/shadowos/DATOS/Programacion/Android/AndroidDrop/animation/animation-engine/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:5:5-44
+MERGED from [:core:core-common] /run/media/shadowos/DATOS/Programacion/Android/AndroidDrop/core/core-common/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:5:5-44
+MERGED from [:core:core-common] /run/media/shadowos/DATOS/Programacion/Android/AndroidDrop/core/core-common/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-nearby:19.0.0] /home/shadowos/.gradle/caches/9.3.0/transforms/9de7db3fdd1f6edd588e17fbb86ad79e/transformed/play-services-nearby-19.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-nearby:19.0.0] /home/shadowos/.gradle/caches/9.3.0/transforms/9de7db3fdd1f6edd588e17fbb86ad79e/transformed/play-services-nearby-19.0.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.hilt:hilt-navigation-compose:1.2.0] /home/shadowos/.gradle/caches/9.3.0/transforms/257c1865c3c35793779d3cdea105ff16/transformed/hilt-navigation-compose-1.2.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.hilt:hilt-navigation-compose:1.2.0] /home/shadowos/.gradle/caches/9.3.0/transforms/257c1865c3c35793779d3cdea105ff16/transformed/hilt-navigation-compose-1.2.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.hilt:hilt-navigation:1.2.0] /home/shadowos/.gradle/caches/9.3.0/transforms/00faa7bf35b1297b0b88309c1b399844/transformed/hilt-navigation-1.2.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.hilt:hilt-navigation:1.2.0] /home/shadowos/.gradle/caches/9.3.0/transforms/00faa7bf35b1297b0b88309c1b399844/transformed/hilt-navigation-1.2.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.dagger:hilt-android:2.51.1] /home/shadowos/.gradle/caches/9.3.0/transforms/9bce8085ff0276f56055adbbe30d08e7/transformed/hilt-android-2.51.1/AndroidManifest.xml:18:3-42
+MERGED from [com.google.dagger:hilt-android:2.51.1] /home/shadowos/.gradle/caches/9.3.0/transforms/9bce8085ff0276f56055adbbe30d08e7/transformed/hilt-android-2.51.1/AndroidManifest.xml:18:3-42
+MERGED from [androidx.navigation:navigation-common:2.8.2] /home/shadowos/.gradle/caches/9.3.0/transforms/bf8e52c72e2d51817c9fc79019d7fb1b/transformed/navigation-common-2.8.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common:2.8.2] /home/shadowos/.gradle/caches/9.3.0/transforms/bf8e52c72e2d51817c9fc79019d7fb1b/transformed/navigation-common-2.8.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common-ktx:2.8.2] /home/shadowos/.gradle/caches/9.3.0/transforms/9f9adf8aaf2d5e0d0732bcb9a4908314/transformed/navigation-common-ktx-2.8.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-common-ktx:2.8.2] /home/shadowos/.gradle/caches/9.3.0/transforms/9f9adf8aaf2d5e0d0732bcb9a4908314/transformed/navigation-common-ktx-2.8.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-runtime:2.8.2] /home/shadowos/.gradle/caches/9.3.0/transforms/0bc0bf7006970ac5a33ba3043608181c/transformed/navigation-runtime-2.8.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime:2.8.2] /home/shadowos/.gradle/caches/9.3.0/transforms/0bc0bf7006970ac5a33ba3043608181c/transformed/navigation-runtime-2.8.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.8.2] /home/shadowos/.gradle/caches/9.3.0/transforms/e275c5d7aaa219a5ba2ece6cd105a935/transformed/navigation-runtime-ktx-2.8.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.8.2] /home/shadowos/.gradle/caches/9.3.0/transforms/e275c5d7aaa219a5ba2ece6cd105a935/transformed/navigation-runtime-ktx-2.8.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-compose:2.8.2] /home/shadowos/.gradle/caches/9.3.0/transforms/8002e6cc5a2072d1187347635758f64c/transformed/navigation-compose-2.8.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-compose:2.8.2] /home/shadowos/.gradle/caches/9.3.0/transforms/8002e6cc5a2072d1187347635758f64c/transformed/navigation-compose-2.8.2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:18.0.1] /home/shadowos/.gradle/caches/9.3.0/transforms/c3c115558d46f2fddc89667121a229a7/transformed/play-services-base-18.0.1/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-base:18.0.1] /home/shadowos/.gradle/caches/9.3.0/transforms/c3c115558d46f2fddc89667121a229a7/transformed/play-services-base-18.0.1/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] /home/shadowos/.gradle/caches/9.3.0/transforms/a0ab4729eae36a30cfc1c41cf4623201/transformed/play-services-tasks-18.0.1/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] /home/shadowos/.gradle/caches/9.3.0/transforms/a0ab4729eae36a30cfc1c41cf4623201/transformed/play-services-tasks-18.0.1/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] /home/shadowos/.gradle/caches/9.3.0/transforms/6961d279641cb835b2322479cf048f51/transformed/play-services-basement-18.0.0/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] /home/shadowos/.gradle/caches/9.3.0/transforms/6961d279641cb835b2322479cf048f51/transformed/play-services-basement-18.0.0/AndroidManifest.xml:18:5-43
+MERGED from [androidx.fragment:fragment:1.5.1] /home/shadowos/.gradle/caches/9.3.0/transforms/acf2899bf43f206e5b4149656e75a662/transformed/fragment-1.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.5.1] /home/shadowos/.gradle/caches/9.3.0/transforms/acf2899bf43f206e5b4149656e75a662/transformed/fragment-1.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.material3:material3-android:1.3.0] /home/shadowos/.gradle/caches/9.3.0/transforms/702463a1ab8b0311ee1fed7810a5a533/transformed/material3-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material3:material3-android:1.3.0] /home/shadowos/.gradle/caches/9.3.0/transforms/702463a1ab8b0311ee1fed7810a5a533/transformed/material3-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material:material-android:1.7.4] /home/shadowos/.gradle/caches/9.3.0/transforms/8494148bd4aa74eeb58ba96ef5f3ce04/transformed/material-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-android:1.7.4] /home/shadowos/.gradle/caches/9.3.0/transforms/8494148bd4aa74eeb58ba96ef5f3ce04/transformed/material-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-core-android:1.7.4] /home/shadowos/.gradle/caches/9.3.0/transforms/ba27b0f3da385b5f20c5ad8e34c1a9d8/transformed/animation-core-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-core-android:1.7.4] /home/shadowos/.gradle/caches/9.3.0/transforms/ba27b0f3da385b5f20c5ad8e34c1a9d8/transformed/animation-core-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-ripple-android:1.7.4] /home/shadowos/.gradle/caches/9.3.0/transforms/8b457a39728e96e04206133f54195e08/transformed/material-ripple-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-ripple-android:1.7.4] /home/shadowos/.gradle/caches/9.3.0/transforms/8b457a39728e96e04206133f54195e08/transformed/material-ripple-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-android:1.7.4] /home/shadowos/.gradle/caches/9.3.0/transforms/10c4f38958fe5fb8474605ed74bd1a6f/transformed/animation-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-android:1.7.4] /home/shadowos/.gradle/caches/9.3.0/transforms/10c4f38958fe5fb8474605ed74bd1a6f/transformed/animation-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.7.4] /home/shadowos/.gradle/caches/9.3.0/transforms/2127b1bb6042d4b6fe96acba5c784b44/transformed/foundation-layout-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.7.4] /home/shadowos/.gradle/caches/9.3.0/transforms/2127b1bb6042d4b6fe96acba5c784b44/transformed/foundation-layout-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-android:1.7.4] /home/shadowos/.gradle/caches/9.3.0/transforms/8084149f037474e9e72bebe467c44b26/transformed/foundation-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-android:1.7.4] /home/shadowos/.gradle/caches/9.3.0/transforms/8084149f037474e9e72bebe467c44b26/transformed/foundation-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-data-android:1.7.4] /home/shadowos/.gradle/caches/9.3.0/transforms/f0fc65aa202bc9ab419a51659a20e5a6/transformed/ui-tooling-data-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-data-android:1.7.4] /home/shadowos/.gradle/caches/9.3.0/transforms/f0fc65aa202bc9ab419a51659a20e5a6/transformed/ui-tooling-data-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-unit-android:1.7.4] /home/shadowos/.gradle/caches/9.3.0/transforms/7242c40e8659b88b0ecf1f1fbc2a63d5/transformed/ui-unit-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-unit-android:1.7.4] /home/shadowos/.gradle/caches/9.3.0/transforms/7242c40e8659b88b0ecf1f1fbc2a63d5/transformed/ui-unit-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-geometry-android:1.7.4] /home/shadowos/.gradle/caches/9.3.0/transforms/4d18208a4704299c0f275d3150a640a9/transformed/ui-geometry-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-geometry-android:1.7.4] /home/shadowos/.gradle/caches/9.3.0/transforms/4d18208a4704299c0f275d3150a640a9/transformed/ui-geometry-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-util-android:1.7.4] /home/shadowos/.gradle/caches/9.3.0/transforms/b1b92993b849446831ab66af3e21aba5/transformed/ui-util-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-util-android:1.7.4] /home/shadowos/.gradle/caches/9.3.0/transforms/b1b92993b849446831ab66af3e21aba5/transformed/ui-util-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-text-android:1.7.4] /home/shadowos/.gradle/caches/9.3.0/transforms/1449b81ef3ed7ffd924cff54304f01ec/transformed/ui-text-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-text-android:1.7.4] /home/shadowos/.gradle/caches/9.3.0/transforms/1449b81ef3ed7ffd924cff54304f01ec/transformed/ui-text-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.7.4] /home/shadowos/.gradle/caches/9.3.0/transforms/88d658264fa728dff043473e6cf9f122/transformed/ui-tooling-preview-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.7.4] /home/shadowos/.gradle/caches/9.3.0/transforms/88d658264fa728dff043473e6cf9f122/transformed/ui-tooling-preview-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-graphics-android:1.7.4] /home/shadowos/.gradle/caches/9.3.0/transforms/2db163c7d322f1a0c06c1d0ee0679a14/transformed/ui-graphics-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-graphics-android:1.7.4] /home/shadowos/.gradle/caches/9.3.0/transforms/2db163c7d322f1a0c06c1d0ee0679a14/transformed/ui-graphics-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-android:1.7.4] /home/shadowos/.gradle/caches/9.3.0/transforms/5b8a1a0169ed79dfa70d3751ee1ffe59/transformed/ui-tooling-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-android:1.7.4] /home/shadowos/.gradle/caches/9.3.0/transforms/5b8a1a0169ed79dfa70d3751ee1ffe59/transformed/ui-tooling-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] /home/shadowos/.gradle/caches/9.3.0/transforms/deca7d74bfc4eea89da4924c4183c7b0/transformed/savedstate-ktx-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] /home/shadowos/.gradle/caches/9.3.0/transforms/deca7d74bfc4eea89da4924c4183c7b0/transformed/savedstate-ktx-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /home/shadowos/.gradle/caches/9.3.0/transforms/9f00e90680d2331dca089bcba35d7487/transformed/savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /home/shadowos/.gradle/caches/9.3.0/transforms/9f00e90680d2331dca089bcba35d7487/transformed/savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/shadowos/.gradle/caches/9.3.0/transforms/c8771eb3fbf27da515c5c88b3813250e/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/shadowos/.gradle/caches/9.3.0/transforms/c8771eb3fbf27da515c5c88b3813250e/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] /home/shadowos/.gradle/caches/9.3.0/transforms/f9228cc6c1786c0dfb792b563981e5b6/transformed/emoji2-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] /home/shadowos/.gradle/caches/9.3.0/transforms/f9228cc6c1786c0dfb792b563981e5b6/transformed/emoji2-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.5] /home/shadowos/.gradle/caches/9.3.0/transforms/5a45b5e8729e75c70e3fb5d7659c6832/transformed/lifecycle-process-2.8.5/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.5] /home/shadowos/.gradle/caches/9.3.0/transforms/5a45b5e8729e75c70e3fb5d7659c6832/transformed/lifecycle-process-2.8.5/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.8.5] /home/shadowos/.gradle/caches/9.3.0/transforms/a5e222a3b026cf9dacc8d380cecbbec0/transformed/lifecycle-livedata-core-ktx-2.8.5/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.8.5] /home/shadowos/.gradle/caches/9.3.0/transforms/a5e222a3b026cf9dacc8d380cecbbec0/transformed/lifecycle-livedata-core-ktx-2.8.5/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.8.5] /home/shadowos/.gradle/caches/9.3.0/transforms/ef5ee3b759ead9a6b019fec4bb5bc5be/transformed/lifecycle-livedata-2.8.5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.8.5] /home/shadowos/.gradle/caches/9.3.0/transforms/ef5ee3b759ead9a6b019fec4bb5bc5be/transformed/lifecycle-livedata-2.8.5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.8.5] /home/shadowos/.gradle/caches/9.3.0/transforms/c9e40e6b7c7481e7b4979e5393a93b3f/transformed/lifecycle-viewmodel-2.8.5/AndroidManifest.xml:4:5-43
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.8.5] /home/shadowos/.gradle/caches/9.3.0/transforms/c9e40e6b7c7481e7b4979e5393a93b3f/transformed/lifecycle-viewmodel-2.8.5/AndroidManifest.xml:4:5-43
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.8.5] /home/shadowos/.gradle/caches/9.3.0/transforms/721d9e382f77108ec7523116362fa4e6/transformed/lifecycle-viewmodel-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.8.5] /home/shadowos/.gradle/caches/9.3.0/transforms/721d9e382f77108ec7523116362fa4e6/transformed/lifecycle-viewmodel-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.8.5] /home/shadowos/.gradle/caches/9.3.0/transforms/d0737b89658a378f3680eb26acad07b6/transformed/lifecycle-runtime-ktx-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.8.5] /home/shadowos/.gradle/caches/9.3.0/transforms/d0737b89658a378f3680eb26acad07b6/transformed/lifecycle-runtime-ktx-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.8.5] /home/shadowos/.gradle/caches/9.3.0/transforms/efa41f6abb6967b98c357c1eeeae7a37/transformed/lifecycle-runtime-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.8.5] /home/shadowos/.gradle/caches/9.3.0/transforms/efa41f6abb6967b98c357c1eeeae7a37/transformed/lifecycle-runtime-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.8.5] /home/shadowos/.gradle/caches/9.3.0/transforms/7851c3c9135563ea5e177a93797b3c48/transformed/lifecycle-livedata-core-2.8.5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.8.5] /home/shadowos/.gradle/caches/9.3.0/transforms/7851c3c9135563ea5e177a93797b3c48/transformed/lifecycle-livedata-core-2.8.5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.8.5] /home/shadowos/.gradle/caches/9.3.0/transforms/20754f7c5a3bccf25b295af3ca7dacfc/transformed/lifecycle-viewmodel-savedstate-2.8.5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.8.5] /home/shadowos/.gradle/caches/9.3.0/transforms/20754f7c5a3bccf25b295af3ca7dacfc/transformed/lifecycle-viewmodel-savedstate-2.8.5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.8.5] /home/shadowos/.gradle/caches/9.3.0/transforms/f0cb5b93485d5a03187365adce4ac788/transformed/lifecycle-viewmodel-ktx-2.8.5/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.8.5] /home/shadowos/.gradle/caches/9.3.0/transforms/f0cb5b93485d5a03187365adce4ac788/transformed/lifecycle-viewmodel-ktx-2.8.5/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-compose-android:2.8.5] /home/shadowos/.gradle/caches/9.3.0/transforms/6406c6cab1f0c3426412836e59564491/transformed/lifecycle-runtime-compose-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-compose-android:2.8.5] /home/shadowos/.gradle/caches/9.3.0/transforms/6406c6cab1f0c3426412836e59564491/transformed/lifecycle-runtime-compose-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose-android:2.8.5] /home/shadowos/.gradle/caches/9.3.0/transforms/939225e2b890e66e2867fe4f55851ca6/transformed/lifecycle-viewmodel-compose-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose-android:2.8.5] /home/shadowos/.gradle/caches/9.3.0/transforms/939225e2b890e66e2867fe4f55851ca6/transformed/lifecycle-viewmodel-compose-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-icons-extended-android:1.7.4] /home/shadowos/.gradle/caches/9.3.0/transforms/1bc5f974536aeb827d74c793e8f83510/transformed/material-icons-extended-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-icons-extended-android:1.7.4] /home/shadowos/.gradle/caches/9.3.0/transforms/1bc5f974536aeb827d74c793e8f83510/transformed/material-icons-extended-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-icons-core-android:1.7.4] /home/shadowos/.gradle/caches/9.3.0/transforms/3083b6d4eea01d13b5405b2a9e5d4b88/transformed/material-icons-core-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-icons-core-android:1.7.4] /home/shadowos/.gradle/caches/9.3.0/transforms/3083b6d4eea01d13b5405b2a9e5d4b88/transformed/material-icons-core-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-android:1.7.4] /home/shadowos/.gradle/caches/9.3.0/transforms/8b0f56a382af9862ca53ae09163e3819/transformed/ui-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-android:1.7.4] /home/shadowos/.gradle/caches/9.3.0/transforms/8b0f56a382af9862ca53ae09163e3819/transformed/ui-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-ktx:1.9.2] /home/shadowos/.gradle/caches/9.3.0/transforms/69c24221abc173442f4ec92e31e519e7/transformed/activity-ktx-1.9.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-ktx:1.9.2] /home/shadowos/.gradle/caches/9.3.0/transforms/69c24221abc173442f4ec92e31e519e7/transformed/activity-ktx-1.9.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-compose:1.9.2] /home/shadowos/.gradle/caches/9.3.0/transforms/d48e26d92c0a21bdaf75c0b0c5f84920/transformed/activity-compose-1.9.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-compose:1.9.2] /home/shadowos/.gradle/caches/9.3.0/transforms/d48e26d92c0a21bdaf75c0b0c5f84920/transformed/activity-compose-1.9.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity:1.9.2] /home/shadowos/.gradle/caches/9.3.0/transforms/c79a6d9aaf6a0508fc73ee5fe315940b/transformed/activity-1.9.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.9.2] /home/shadowos/.gradle/caches/9.3.0/transforms/c79a6d9aaf6a0508fc73ee5fe315940b/transformed/activity-1.9.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/shadowos/.gradle/caches/9.3.0/transforms/72c121405818d4fd38ef329d82c623b0/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/shadowos/.gradle/caches/9.3.0/transforms/72c121405818d4fd38ef329d82c623b0/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/shadowos/.gradle/caches/9.3.0/transforms/e38880806feac509df73c83535328dc6/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/shadowos/.gradle/caches/9.3.0/transforms/e38880806feac509df73c83535328dc6/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.autofill:autofill:1.0.0] /home/shadowos/.gradle/caches/9.3.0/transforms/f9e0d90342b95ebb5b686fd345f487c4/transformed/autofill-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.0.0] /home/shadowos/.gradle/caches/9.3.0/transforms/f9e0d90342b95ebb5b686fd345f487c4/transformed/autofill-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.graphics:graphics-path:1.0.1] /home/shadowos/.gradle/caches/9.3.0/transforms/2715778b69227cf59acab17a28f24593/transformed/graphics-path-1.0.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.graphics:graphics-path:1.0.1] /home/shadowos/.gradle/caches/9.3.0/transforms/2715778b69227cf59acab17a28f24593/transformed/graphics-path-1.0.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core:1.13.1] /home/shadowos/.gradle/caches/9.3.0/transforms/9b684ae8057db9c1f41a82ec1c82ea7f/transformed/core-1.13.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.13.1] /home/shadowos/.gradle/caches/9.3.0/transforms/9b684ae8057db9c1f41a82ec1c82ea7f/transformed/core-1.13.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /home/shadowos/.gradle/caches/9.3.0/transforms/37e140abda899da79bf797a012fba15c/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /home/shadowos/.gradle/caches/9.3.0/transforms/37e140abda899da79bf797a012fba15c/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.core:core-ktx:1.13.1] /home/shadowos/.gradle/caches/9.3.0/transforms/134c4150eafe96b717d90258a8be3149/transformed/core-ktx-1.13.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.13.1] /home/shadowos/.gradle/caches/9.3.0/transforms/134c4150eafe96b717d90258a8be3149/transformed/core-ktx-1.13.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-splashscreen:1.0.1] /home/shadowos/.gradle/caches/9.3.0/transforms/b94a1c80a36e478be1214070d08b6d3e/transformed/core-splashscreen-1.0.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-splashscreen:1.0.1] /home/shadowos/.gradle/caches/9.3.0/transforms/b94a1c80a36e478be1214070d08b6d3e/transformed/core-splashscreen-1.0.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.7.4] /home/shadowos/.gradle/caches/9.3.0/transforms/fd9deaac54b1e81ce2c8c3b3669e245b/transformed/runtime-saveable-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.7.4] /home/shadowos/.gradle/caches/9.3.0/transforms/fd9deaac54b1e81ce2c8c3b3669e245b/transformed/runtime-saveable-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-android:1.7.4] /home/shadowos/.gradle/caches/9.3.0/transforms/f2c49edf99fce2b9e5e5800450d52761/transformed/runtime-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-android:1.7.4] /home/shadowos/.gradle/caches/9.3.0/transforms/f2c49edf99fce2b9e5e5800450d52761/transformed/runtime-release/AndroidManifest.xml:5:5-44
+MERGED from [com.jakewharton.timber:timber:5.0.1] /home/shadowos/.gradle/caches/9.3.0/transforms/6ffa62844042cb776a947c416c13af0e/transformed/timber-5.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.jakewharton.timber:timber:5.0.1] /home/shadowos/.gradle/caches/9.3.0/transforms/6ffa62844042cb776a947c416c13af0e/transformed/timber-5.0.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] /home/shadowos/.gradle/caches/9.3.0/transforms/6c78adeb2c9ce853f445149010dbc04e/transformed/annotation-experimental-1.4.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] /home/shadowos/.gradle/caches/9.3.0/transforms/6c78adeb2c9ce853f445149010dbc04e/transformed/annotation-experimental-1.4.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/shadowos/.gradle/caches/9.3.0/transforms/a2a2782dc2a7eb6a50a9c5e32e75228e/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/shadowos/.gradle/caches/9.3.0/transforms/a2a2782dc2a7eb6a50a9c5e32e75228e/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.1] /home/shadowos/.gradle/caches/9.3.0/transforms/f24ff5e4e125560c0eec7c37df5fe091/transformed/documentfile-1.0.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.1] /home/shadowos/.gradle/caches/9.3.0/transforms/f24ff5e4e125560c0eec7c37df5fe091/transformed/documentfile-1.0.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/shadowos/.gradle/caches/9.3.0/transforms/eb2af50f1ed9376d82377ef6eb5152e1/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/shadowos/.gradle/caches/9.3.0/transforms/eb2af50f1ed9376d82377ef6eb5152e1/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/shadowos/.gradle/caches/9.3.0/transforms/ca4046aecbe2898fda88904b53fddb71/transformed/profileinstaller-1.3.1/AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/shadowos/.gradle/caches/9.3.0/transforms/ca4046aecbe2898fda88904b53fddb71/transformed/profileinstaller-1.3.1/AndroidManifest.xml:21:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/shadowos/.gradle/caches/9.3.0/transforms/07537ec133b1aa7239d6bbb887a397b6/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/shadowos/.gradle/caches/9.3.0/transforms/07537ec133b1aa7239d6bbb887a397b6/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] /home/shadowos/.gradle/caches/9.3.0/transforms/616ae2fbbcd70702ebf4c5d3f533b999/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /home/shadowos/.gradle/caches/9.3.0/transforms/616ae2fbbcd70702ebf4c5d3f533b999/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /home/shadowos/.gradle/caches/9.3.0/transforms/c3169ccd31c104e4d4a5dabb5b9c53f2/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /home/shadowos/.gradle/caches/9.3.0/transforms/c3169ccd31c104e4d4a5dabb5b9c53f2/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [org.conscrypt:conscrypt-android:2.5.2] /home/shadowos/.gradle/caches/9.3.0/transforms/a0b2af2513e34a7e71b5ce75ae3c9f8b/transformed/conscrypt-android-2.5.2/AndroidManifest.xml:7:5-9:41
+MERGED from [org.conscrypt:conscrypt-android:2.5.2] /home/shadowos/.gradle/caches/9.3.0/transforms/a0b2af2513e34a7e71b5ce75ae3c9f8b/transformed/conscrypt-android-2.5.2/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.dagger:dagger-lint-aar:2.51.1] /home/shadowos/.gradle/caches/9.3.0/transforms/5d11657721f260a8a635d4a1edb365d8/transformed/dagger-lint-aar-2.51.1/AndroidManifest.xml:18:3-42
+MERGED from [com.google.dagger:dagger-lint-aar:2.51.1] /home/shadowos/.gradle/caches/9.3.0/transforms/5d11657721f260a8a635d4a1edb365d8/transformed/dagger-lint-aar-2.51.1/AndroidManifest.xml:18:3-42
+	android:targetSdkVersion
+		INJECTED from /run/media/shadowos/DATOS/Programacion/Android/AndroidDrop/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /run/media/shadowos/DATOS/Programacion/Android/AndroidDrop/app/src/main/AndroidManifest.xml
+service#com.androiddrop.service.discovery.DiscoveryService
+ADDED from [:service:service-discovery] /run/media/shadowos/DATOS/Programacion/Android/AndroidDrop/service/service-discovery/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:8:9-11:63
+	android:exported
+		ADDED from [:service:service-discovery] /run/media/shadowos/DATOS/Programacion/Android/AndroidDrop/service/service-discovery/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:10:13-37
+	android:foregroundServiceType
+		ADDED from [:service:service-discovery] /run/media/shadowos/DATOS/Programacion/Android/AndroidDrop/service/service-discovery/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:11:13-60
+	android:name
+		ADDED from [:service:service-discovery] /run/media/shadowos/DATOS/Programacion/Android/AndroidDrop/service/service-discovery/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:9:13-78
+service#com.androiddrop.service.transfer.TransferService
+ADDED from [:service:service-transfer] /run/media/shadowos/DATOS/Programacion/Android/AndroidDrop/service/service-transfer/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:8:9-11:56
+	android:exported
+		ADDED from [:service:service-transfer] /run/media/shadowos/DATOS/Programacion/Android/AndroidDrop/service/service-transfer/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:10:13-37
+	android:foregroundServiceType
+		ADDED from [:service:service-transfer] /run/media/shadowos/DATOS/Programacion/Android/AndroidDrop/service/service-transfer/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:11:13-53
+	android:name
+		ADDED from [:service:service-transfer] /run/media/shadowos/DATOS/Programacion/Android/AndroidDrop/service/service-transfer/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:9:13-76
+receiver#com.androiddrop.service.transfer.TransferBroadcastReceiver
+ADDED from [:service:service-transfer] /run/media/shadowos/DATOS/Programacion/Android/AndroidDrop/service/service-transfer/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:13:9-15:40
+	android:exported
+		ADDED from [:service:service-transfer] /run/media/shadowos/DATOS/Programacion/Android/AndroidDrop/service/service-transfer/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:15:13-37
+	android:name
+		ADDED from [:service:service-transfer] /run/media/shadowos/DATOS/Programacion/Android/AndroidDrop/service/service-transfer/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:14:13-86
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-nearby:19.0.0] /home/shadowos/.gradle/caches/9.3.0/transforms/9de7db3fdd1f6edd588e17fbb86ad79e/transformed/play-services-nearby-19.0.0/AndroidManifest.xml:7:5-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-nearby:19.0.0] /home/shadowos/.gradle/caches/9.3.0/transforms/9de7db3fdd1f6edd588e17fbb86ad79e/transformed/play-services-nearby-19.0.0/AndroidManifest.xml:7:22-76
+service#com.google.android.gms.nearby.exposurenotification.WakeUpService
+ADDED from [com.google.android.gms:play-services-nearby:19.0.0] /home/shadowos/.gradle/caches/9.3.0/transforms/9de7db3fdd1f6edd588e17fbb86ad79e/transformed/play-services-nearby-19.0.0/AndroidManifest.xml:10:9-13:105
+	android:exported
+		ADDED from [com.google.android.gms:play-services-nearby:19.0.0] /home/shadowos/.gradle/caches/9.3.0/transforms/9de7db3fdd1f6edd588e17fbb86ad79e/transformed/play-services-nearby-19.0.0/AndroidManifest.xml:12:13-36
+	android:permission
+		ADDED from [com.google.android.gms:play-services-nearby:19.0.0] /home/shadowos/.gradle/caches/9.3.0/transforms/9de7db3fdd1f6edd588e17fbb86ad79e/transformed/play-services-nearby-19.0.0/AndroidManifest.xml:13:13-102
+	android:name
+		ADDED from [com.google.android.gms:play-services-nearby:19.0.0] /home/shadowos/.gradle/caches/9.3.0/transforms/9de7db3fdd1f6edd588e17fbb86ad79e/transformed/play-services-nearby-19.0.0/AndroidManifest.xml:11:13-92
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:18.0.1] /home/shadowos/.gradle/caches/9.3.0/transforms/c3c115558d46f2fddc89667121a229a7/transformed/play-services-base-18.0.1/AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] /home/shadowos/.gradle/caches/9.3.0/transforms/c3c115558d46f2fddc89667121a229a7/transformed/play-services-base-18.0.1/AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] /home/shadowos/.gradle/caches/9.3.0/transforms/c3c115558d46f2fddc89667121a229a7/transformed/play-services-base-18.0.1/AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] /home/shadowos/.gradle/caches/9.3.0/transforms/c3c115558d46f2fddc89667121a229a7/transformed/play-services-base-18.0.1/AndroidManifest.xml:20:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:18.0.0] /home/shadowos/.gradle/caches/9.3.0/transforms/6961d279641cb835b2322479cf048f51/transformed/play-services-basement-18.0.0/AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:18.0.0] /home/shadowos/.gradle/caches/9.3.0/transforms/6961d279641cb835b2322479cf048f51/transformed/play-services-basement-18.0.0/AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:18.0.0] /home/shadowos/.gradle/caches/9.3.0/transforms/6961d279641cb835b2322479cf048f51/transformed/play-services-basement-18.0.0/AndroidManifest.xml:22:13-58
+activity#androidx.compose.ui.tooling.PreviewActivity
+ADDED from [androidx.compose.ui:ui-tooling-android:1.7.4] /home/shadowos/.gradle/caches/9.3.0/transforms/5b8a1a0169ed79dfa70d3751ee1ffe59/transformed/ui-tooling-release/AndroidManifest.xml:23:9-25:39
+	android:exported
+		ADDED from [androidx.compose.ui:ui-tooling-android:1.7.4] /home/shadowos/.gradle/caches/9.3.0/transforms/5b8a1a0169ed79dfa70d3751ee1ffe59/transformed/ui-tooling-release/AndroidManifest.xml:25:13-36
+	android:name
+		ADDED from [androidx.compose.ui:ui-tooling-android:1.7.4] /home/shadowos/.gradle/caches/9.3.0/transforms/5b8a1a0169ed79dfa70d3751ee1ffe59/transformed/ui-tooling-release/AndroidManifest.xml:24:13-71
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.3.0] /home/shadowos/.gradle/caches/9.3.0/transforms/f9228cc6c1786c0dfb792b563981e5b6/transformed/emoji2-1.3.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.5] /home/shadowos/.gradle/caches/9.3.0/transforms/5a45b5e8729e75c70e3fb5d7659c6832/transformed/lifecycle-process-2.8.5/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.5] /home/shadowos/.gradle/caches/9.3.0/transforms/5a45b5e8729e75c70e3fb5d7659c6832/transformed/lifecycle-process-2.8.5/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/shadowos/.gradle/caches/9.3.0/transforms/ca4046aecbe2898fda88904b53fddb71/transformed/profileinstaller-1.3.1/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/shadowos/.gradle/caches/9.3.0/transforms/ca4046aecbe2898fda88904b53fddb71/transformed/profileinstaller-1.3.1/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/shadowos/.gradle/caches/9.3.0/transforms/07537ec133b1aa7239d6bbb887a397b6/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/shadowos/.gradle/caches/9.3.0/transforms/07537ec133b1aa7239d6bbb887a397b6/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /home/shadowos/.gradle/caches/9.3.0/transforms/f9228cc6c1786c0dfb792b563981e5b6/transformed/emoji2-1.3.0/AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /home/shadowos/.gradle/caches/9.3.0/transforms/f9228cc6c1786c0dfb792b563981e5b6/transformed/emoji2-1.3.0/AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /home/shadowos/.gradle/caches/9.3.0/transforms/f9228cc6c1786c0dfb792b563981e5b6/transformed/emoji2-1.3.0/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /home/shadowos/.gradle/caches/9.3.0/transforms/f9228cc6c1786c0dfb792b563981e5b6/transformed/emoji2-1.3.0/AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.3.0] /home/shadowos/.gradle/caches/9.3.0/transforms/f9228cc6c1786c0dfb792b563981e5b6/transformed/emoji2-1.3.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /home/shadowos/.gradle/caches/9.3.0/transforms/f9228cc6c1786c0dfb792b563981e5b6/transformed/emoji2-1.3.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /home/shadowos/.gradle/caches/9.3.0/transforms/f9228cc6c1786c0dfb792b563981e5b6/transformed/emoji2-1.3.0/AndroidManifest.xml:30:17-75
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.8.5] /home/shadowos/.gradle/caches/9.3.0/transforms/5a45b5e8729e75c70e3fb5d7659c6832/transformed/lifecycle-process-2.8.5/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.8.5] /home/shadowos/.gradle/caches/9.3.0/transforms/5a45b5e8729e75c70e3fb5d7659c6832/transformed/lifecycle-process-2.8.5/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.8.5] /home/shadowos/.gradle/caches/9.3.0/transforms/5a45b5e8729e75c70e3fb5d7659c6832/transformed/lifecycle-process-2.8.5/AndroidManifest.xml:30:17-78
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] /home/shadowos/.gradle/caches/9.3.0/transforms/9b684ae8057db9c1f41a82ec1c82ea7f/transformed/core-1.13.1/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.13.1] /home/shadowos/.gradle/caches/9.3.0/transforms/9b684ae8057db9c1f41a82ec1c82ea7f/transformed/core-1.13.1/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.13.1] /home/shadowos/.gradle/caches/9.3.0/transforms/9b684ae8057db9c1f41a82ec1c82ea7f/transformed/core-1.13.1/AndroidManifest.xml:23:9-81
+permission#com.androiddrop.app.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] /home/shadowos/.gradle/caches/9.3.0/transforms/9b684ae8057db9c1f41a82ec1c82ea7f/transformed/core-1.13.1/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.13.1] /home/shadowos/.gradle/caches/9.3.0/transforms/9b684ae8057db9c1f41a82ec1c82ea7f/transformed/core-1.13.1/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.13.1] /home/shadowos/.gradle/caches/9.3.0/transforms/9b684ae8057db9c1f41a82ec1c82ea7f/transformed/core-1.13.1/AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] /home/shadowos/.gradle/caches/9.3.0/transforms/9b684ae8057db9c1f41a82ec1c82ea7f/transformed/core-1.13.1/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.13.1] /home/shadowos/.gradle/caches/9.3.0/transforms/9b684ae8057db9c1f41a82ec1c82ea7f/transformed/core-1.13.1/AndroidManifest.xml:26:22-94
+uses-permission#com.androiddrop.app.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] /home/shadowos/.gradle/caches/9.3.0/transforms/9b684ae8057db9c1f41a82ec1c82ea7f/transformed/core-1.13.1/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.13.1] /home/shadowos/.gradle/caches/9.3.0/transforms/9b684ae8057db9c1f41a82ec1c82ea7f/transformed/core-1.13.1/AndroidManifest.xml:26:22-94
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/shadowos/.gradle/caches/9.3.0/transforms/ca4046aecbe2898fda88904b53fddb71/transformed/profileinstaller-1.3.1/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/shadowos/.gradle/caches/9.3.0/transforms/ca4046aecbe2898fda88904b53fddb71/transformed/profileinstaller-1.3.1/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/shadowos/.gradle/caches/9.3.0/transforms/ca4046aecbe2898fda88904b53fddb71/transformed/profileinstaller-1.3.1/AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/shadowos/.gradle/caches/9.3.0/transforms/ca4046aecbe2898fda88904b53fddb71/transformed/profileinstaller-1.3.1/AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/shadowos/.gradle/caches/9.3.0/transforms/ca4046aecbe2898fda88904b53fddb71/transformed/profileinstaller-1.3.1/AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/shadowos/.gradle/caches/9.3.0/transforms/ca4046aecbe2898fda88904b53fddb71/transformed/profileinstaller-1.3.1/AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/shadowos/.gradle/caches/9.3.0/transforms/ca4046aecbe2898fda88904b53fddb71/transformed/profileinstaller-1.3.1/AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/shadowos/.gradle/caches/9.3.0/transforms/ca4046aecbe2898fda88904b53fddb71/transformed/profileinstaller-1.3.1/AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/shadowos/.gradle/caches/9.3.0/transforms/ca4046aecbe2898fda88904b53fddb71/transformed/profileinstaller-1.3.1/AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/shadowos/.gradle/caches/9.3.0/transforms/ca4046aecbe2898fda88904b53fddb71/transformed/profileinstaller-1.3.1/AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/shadowos/.gradle/caches/9.3.0/transforms/ca4046aecbe2898fda88904b53fddb71/transformed/profileinstaller-1.3.1/AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/shadowos/.gradle/caches/9.3.0/transforms/ca4046aecbe2898fda88904b53fddb71/transformed/profileinstaller-1.3.1/AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/shadowos/.gradle/caches/9.3.0/transforms/ca4046aecbe2898fda88904b53fddb71/transformed/profileinstaller-1.3.1/AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/shadowos/.gradle/caches/9.3.0/transforms/ca4046aecbe2898fda88904b53fddb71/transformed/profileinstaller-1.3.1/AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/shadowos/.gradle/caches/9.3.0/transforms/ca4046aecbe2898fda88904b53fddb71/transformed/profileinstaller-1.3.1/AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/shadowos/.gradle/caches/9.3.0/transforms/ca4046aecbe2898fda88904b53fddb71/transformed/profileinstaller-1.3.1/AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/shadowos/.gradle/caches/9.3.0/transforms/ca4046aecbe2898fda88904b53fddb71/transformed/profileinstaller-1.3.1/AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/shadowos/.gradle/caches/9.3.0/transforms/ca4046aecbe2898fda88904b53fddb71/transformed/profileinstaller-1.3.1/AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/shadowos/.gradle/caches/9.3.0/transforms/ca4046aecbe2898fda88904b53fddb71/transformed/profileinstaller-1.3.1/AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/shadowos/.gradle/caches/9.3.0/transforms/ca4046aecbe2898fda88904b53fddb71/transformed/profileinstaller-1.3.1/AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/shadowos/.gradle/caches/9.3.0/transforms/ca4046aecbe2898fda88904b53fddb71/transformed/profileinstaller-1.3.1/AndroidManifest.xml:50:25-92
